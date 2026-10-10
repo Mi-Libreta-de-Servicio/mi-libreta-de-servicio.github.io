@@ -17,8 +17,8 @@ Cabrera**.
 ## Si ya no tienes la aplicación
 
 Escribe a **territorytracker.support@gmail.com** desde el correo con el que
-creaste tu cuenta, con el asunto «Eliminar mi cuenta». La eliminamos en un
-plazo máximo de 20 días hábiles y te confirmamos por correo.
+creaste tu cuenta, con el asunto «Eliminar mi cuenta». El desarrollador la
+elimina en un plazo máximo de 20 días hábiles y te lo confirma por correo.
 
 ## Qué se borra y qué se conserva
 

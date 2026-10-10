@@ -5,17 +5,17 @@ permalink: /privacidad/
 
 # Aviso de privacidad — Mi Libreta de Servicio
 
-**Última actualización:** 8 de octubre de 2026
+**Última actualización:** 9 de octubre de 2026
 
 ---
 
 ## En corto
 
-- **Mi Libreta** se guarda únicamente en tu teléfono. No recibimos nada de lo
-  que anotas ahí.
-- Si te unes a una congregación, guardamos tu correo, tu nombre y la
+- **Mi Libreta** se guarda únicamente en tu teléfono. El desarrollador no
+  recibe nada de lo que anotas ahí.
+- Si te unes a una congregación, se guardan tu correo, tu nombre y la
   información del territorio que trabajan juntos.
-- No vendemos datos, no hay publicidad y no registramos tu ubicación.
+- No se venden datos, no hay publicidad y no se registra tu ubicación.
 - El historial de la congregación se borra automáticamente a los 60 días.
 - Puedes eliminar tu cuenta desde la aplicación en cualquier momento.
 - Dudas o solicitudes: **territorytracker.support@gmail.com**
@@ -28,7 +28,8 @@ El detalle de cada punto está abajo.
 
 La aplicación **Mi Libreta de Servicio** (paquete `com.territorytracker.app`) la
 desarrolla y opera **Misael Pedraza Cabrera**, con domicilio en **Tijuana, Baja
-California, México**, en adelante «nosotros».
+California, México**, en adelante «el desarrollador». Es una sola persona,
+no una empresa ni un equipo.
 
 Para cualquier asunto sobre tus datos, escribe a
 **territorytracker.support@gmail.com**. Es el único medio de contacto, y ahí
@@ -44,9 +45,9 @@ fines comerciales.
 
 **Mi Libreta** (informe de servicio, personas que visitas, cursos, cronómetro,
 recordatorios) **se guarda únicamente en tu teléfono.** Nada de lo que anotas
-ahí se envía a nuestros servidores ni a ningún otro: ni tu informe, ni los
+ahí se envía a los servidores de la aplicación ni a ningún otro: ni tu informe, ni los
 nombres, direcciones, teléfonos, edades o notas de las personas que visitas.
-**Quien usa solo la Libreta no nos envía ningún dato.** Puedes usar la
+**Quien usa solo la Libreta no envía ningún dato.** Puedes usar la
 aplicación completa sin crear una cuenta.
 
 **Mi congregación** (el mapa del territorio, las manzanas, las propuestas de
@@ -72,17 +73,17 @@ El resto de este aviso describe cada parte por separado.
 - Las listas de publicaciones, textos y colonias que la aplicación **guarda a
   partir de lo que escribes**, para sugerírtelas después.
 
-Estas personas no usan la aplicación y no nos dieron ningún dato: **los anotas
+Estas personas no usan la aplicación ni proporcionaron ningún dato: **los anotas
 tú**, como lo harías en una libreta de papel, y **quedan bajo tu
-responsabilidad y tu control**. Nosotros no los recibimos y no tenemos forma de
-verlos.
+responsabilidad y tu control**. El desarrollador no los recibe y no tiene
+forma de verlos.
 
 ### Dónde se guarda y quién puede verlo
 
 - En la **memoria privada de la aplicación** en tu teléfono. Ninguna otra
   aplicación del teléfono puede leerla.
 - **Nadie de tu congregación la ve**: ni los administradores, ni otros
-  publicadores. Tampoco nosotros.
+  publicadores. Tampoco el desarrollador.
 
 ### Cuándo sale del teléfono (siempre por decisión tuya)
 
@@ -99,7 +100,7 @@ verlos.
   datos de la aplicación a la cuenta de Google del propio teléfono, para
   restaurarlos si cambias de aparato. Es una función de Android, cifrada por
   Google, que tú controlas desde los ajustes de tu teléfono (Google › Copia de
-  seguridad). Nosotros no tenemos acceso a ella.
+  seguridad). El desarrollador no tiene acceso a ella.
 - **Agregar una visita al calendario:** si tocas «Agregar al calendario», la
   aplicación abre tu calendario con los datos del evento ya escritos (nombre de
   la persona, fecha, hora, dirección y nota) y tú decides si lo guardas. La
@@ -116,36 +117,37 @@ exportado o guardado en una carpeta son tuyas y se quedan donde las pusiste).
 
 ---
 
-## Mi congregación: lo que se guarda en nuestros servidores
+## Mi congregación: lo que se guarda en los servidores de la aplicación
 
 Esta parte se usa únicamente si creas una cuenta y te unes a una congregación.
 
-### Qué guardamos y para qué
+### Qué se guarda y para qué
 
 | Dato | Para qué |
 |---|---|
-| **Correo electrónico y contraseña** (la contraseña se guarda cifrada de forma irreversible; nosotros no podemos leerla) | Identificarte y permitirte entrar a tu congregación. |
+| **Correo electrónico y contraseña** (la contraseña se guarda cifrada de forma irreversible; nadie puede leerla, ni el desarrollador) | Identificarte y permitirte entrar a tu congregación. |
 | **Tu nombre** y tu **rol** (administrador o publicador) | Que tu congregación sepa quién propuso o revisó cada cambio. |
 | **La congregación** a la que perteneces: nombre y zona horaria | Mostrarte su territorio y calcular las fechas en su zona horaria. |
 | **El territorio**: el contorno de las manzanas y el grupo al que pertenece cada una | Es el mapa con el que trabaja la congregación. No contiene datos de personas. |
 | **El avance**: qué manzanas se han recorrido, cuándo y quién lo propuso | Que la congregación sepa qué falta por trabajar. |
 | **Marcadores de casas que pidieron no ser visitadas**: ubicación, número de la casa y señas de la fachada | Que ningún publicador vuelva a llamar a esa casa. **No se guarda el motivo.** |
-| **El nombre de la persona que pidió no ser visitada**, cuando quien lo anota lo conoce | Que el administrador pueda atender la petición con respeto. Se guarda **por separado** y **solo lo pueden ver los administradores** de la congregación; ningún publicador puede verlo, ni siquiera quien lo anotó. Es un dato de alguien que no usa la aplicación, y por eso es el que protegemos con más cuidado. |
+| **El nombre de la persona que pidió no ser visitada**, cuando quien lo anota lo conoce | Que el administrador pueda atender la petición con respeto. Se guarda **por separado** y **solo lo pueden ver los administradores** de la congregación; ningún publicador puede verlo, ni siquiera quien lo anotó. Es un dato de alguien que no usa la aplicación, y por eso es el que se protege con más cuidado. |
 | **Lugares de encuentro, salidas de predicación, puntos de predicación pública, sitios de predicación y edificios**: ubicación, horarios y quién participa | Organizar las salidas de la congregación. |
 | **Un identificador de tu teléfono para notificaciones** (token de notificación de Firebase) | Avisarte de tus salidas y de las decisiones sobre tus propuestas. Se elimina al cerrar sesión. |
 | **Un historial de acciones** (quién propuso, aprobó o revirtió cada cambio, y cuándo) | Que la congregación pueda revisar los cambios y revertirlos. |
 
-**Qué no guardamos:** tu ubicación en tiempo real (el mapa la usa únicamente
+**Qué no se guarda:** tu ubicación en tiempo real (el mapa la usa únicamente
 en tu teléfono para mostrarte dónde estás; nunca se envía), nada de tu Libreta
 y ningún dato para publicidad o perfiles.
 
 ### Datos personales sensibles
 
 Pertenecer a una congregación dentro de la aplicación revela tu creencia
-religiosa, que la ley mexicana considera un **dato personal sensible**. Lo
-tratamos únicamente para que la aplicación funcione como se describe en este
-aviso y no lo usamos para ningún otro fin. Fuera de tu congregación, solo lo
-reciben los proveedores que alojan el servicio (ver «Con quién se comparte»).
+religiosa, que la ley mexicana considera un **dato personal sensible**. Se
+trata únicamente para que la aplicación funcione como se describe en este
+aviso y no se usa para ningún otro fin. Fuera de tu congregación, solo lo
+reciben los proveedores que alojan el servicio (consulta
+[Con quién se comparte](#con-quién-se-comparte-proveedores)).
 
 Por eso, al crear una congregación o unirte a una, la aplicación te pide
 **aceptar este aviso de forma expresa**. Si no lo aceptas, puedes seguir usando
@@ -159,12 +161,12 @@ la Libreta, que no envía ningún dato.
   aplica el propio servidor, no solo la aplicación.
 - **Los administradores** de tu congregación ven además los nombres de las
   personas que pidieron no ser visitadas y quién propuso cada cambio.
-- **Nosotros** tenemos acceso técnico al servidor para operarlo y corregir
-  fallas. No usamos esos datos para ningún otro fin.
+- **El desarrollador** tiene acceso técnico al servidor para operarlo y
+  corregir fallas. No usa esos datos para ningún otro fin.
 
 ### Con quién se comparte (proveedores)
 
-No vendemos ni cedemos datos. Para funcionar, la aplicación usa estos
+No se venden ni se ceden datos. Para funcionar, la aplicación usa estos
 servicios, cada uno con su propio aviso de privacidad:
 
 - **Supabase** (Supabase, Inc.): aloja la base de datos y las cuentas de
@@ -176,7 +178,8 @@ servicios, cada uno con su propio aviso de privacidad:
   el mapa, tu teléfono les pide las imágenes de la zona que estás viendo. Como
   ocurre con cualquier página web, esos servidores reciben tu dirección IP y
   la zona solicitada. No reciben tu nombre ni los datos de tu cuenta.
-- **Google Calendar**: solo si tocas «Agregar al calendario» (ver arriba).
+- **Google Calendar**: solo si tocas «Agregar al calendario» (consulta
+  [Cuándo sale del teléfono](#cuándo-sale-del-teléfono-siempre-por-decisión-tuya)).
 
 ### Cuánto tiempo se conserva y cómo se borra
 
@@ -217,17 +220,18 @@ servicios, cada uno con su propio aviso de privacidad:
 La aplicación no está dirigida a menores de 13 años y no recaba a sabiendas
 datos de menores. Cada persona crea su propia cuenta. Si un menor participa en
 la predicación con su familia, lo que se anote sobre él en la Libreta se
-guarda en el teléfono de quien lo anota, no en nuestros servidores.
+guarda en el teléfono de quien lo anota, no en los servidores de la
+aplicación.
 
 ---
 
 ## Tus derechos (ARCO)
 
-Puedes pedirnos **acceder** a los datos que tenemos de ti, **rectificarlos**,
+Puedes pedir **acceder** a los datos que se tienen de ti, **rectificarlos**,
 **cancelarlos** u **oponerte** a su uso, escribiendo a
 **territorytracker.support@gmail.com** desde el correo con el que creaste tu
-cuenta. Respondemos en un plazo máximo de **20 días hábiles**. Para los datos
-de la Libreta no hace falta pedirnos nada: están en tu teléfono y tú puedes
+cuenta. El desarrollador responde en un plazo máximo de **20 días
+hábiles**. Para los datos de la Libreta no hace falta pedir nada: están en tu teléfono y tú puedes
 borrarlos.
 
 Si consideras que se vulneró tu derecho a la protección de datos personales,
@@ -252,5 +256,6 @@ almacenamiento general del teléfono.
 
 ## Cambios a este aviso
 
-Si cambia lo que la aplicación guarda o con quién lo comparte, actualizaremos
-este aviso y la fecha de arriba, y lo avisaremos dentro de la aplicación.
+Si cambia lo que la aplicación guarda o con quién lo comparte, se
+actualizarán este aviso y la fecha de arriba, y se avisará dentro de la
+aplicación.
