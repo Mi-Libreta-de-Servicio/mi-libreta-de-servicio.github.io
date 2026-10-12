@@ -36,4 +36,17 @@ Si eres el único administrador de una congregación que tiene más miembros,
 primero debes nombrar a otro administrador. Si eres el último miembro, la
 congregación se cierra y toda su información se borra.
 
+## Borrar algunos datos sin eliminar tu cuenta
+
+- **Desde la aplicación** puedes cambiar tu nombre (en Mi perfil), salir de tu
+  congregación y cerrar sesión, lo que elimina el identificador de
+  notificaciones de ese teléfono.
+- **Por correo** puedes pedir que se borren otros datos de tu cuenta, como tus
+  preferencias de notificación o los identificadores de tus teléfonos.
+  Escribe a **territorytracker.support@gmail.com** desde el correo de tu
+  cuenta. El desarrollador responde en un plazo máximo de 20 días hábiles.
+- **El historial de la congregación no se puede borrar a petición**, porque
+  es un registro que no se altera: sus anotaciones se borran automáticamente
+  a los 60 días.
+
 Más detalles en el [aviso de privacidad](../privacidad/).
